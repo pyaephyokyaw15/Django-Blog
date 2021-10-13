@@ -20,13 +20,6 @@ https://mgchat3.pythonanywhere.com/
 * Show posts by certain user
 
 
-## Upcoming Features
-
- - Add songs by users
- - Save note
- - Create user profile
-
-
   
 ## Authors
 
