@@ -1,7 +1,7 @@
 
 # Django-Blog
 
-A Blog app developed using Django.
+A Blog app developed by using Django.
 
 
 ## Demo
